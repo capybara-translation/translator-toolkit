@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:m="http://www.memsource.com/mxlf/2.0" version="1.2" m:version="2.4" m:level="2">
+    <file original="01_ja.docx" source-language="ja" target-language="en" datatype="x-undefined" m:file-format="DOC" m:task-id="stbZWjwCihfeyJzn_dc5">
+        <header>
+            <m:in-ctx-preview-skel bilingual="false"/>
+        </header>
+        <body>
+            <group id="0" m:para-id="0">
+                <context-group>
+                    <context context-type="x-file-part">word/document.xml::body</context>
+                </context-group>
+                <trans-unit id="0" xml:space="preserve" m:score="0.0" m:gross-score="0.0" m:trans-origin="null" m:confirmed="2" m:locked="false" m:para-id="0" m:created-at="1580950266722" m:created-by="232275" m:modified-at="1580950876561" m:modified-by="5911" m:level-edited="true">
+                    <source>AAAA</source>
+                    <target>BBBB</target>
+                    <alt-trans origin="machine-trans" match-quality="0.0"><target>CCCC</target></alt-trans>
+                    <alt-trans origin="memsource-tm" match-quality="0.0"><target/></alt-trans>
+                    <m:editing-stats>
+                        <m:editing-time>0</m:editing-time>
+                        <m:thinking-time>0</m:thinking-time>
+                    </m:editing-stats>
+                </trans-unit>
+            </group>
+            <group id="1" m:para-id="0">
+                <context-group>
+                    <context context-type="x-file-part">word/document.xml::body</context>
+                </context-group>
+                <trans-unit id="1" xml:space="preserve" m:score="90.9" m:gross-score="90.0" m:trans-origin="tm" m:confirmed="0" m:locked="true" m:para-id="0" m:created-at="1580950272298" m:created-by="232275" m:modified-at="1580950876561" m:modified-by="5911" m:level-edited="true">
+                    <source>DDDD</source>
+                    <target>EEEE</target>
+                    <alt-trans origin="machine-trans" match-quality="0.0"><target>FFFF</target></alt-trans>
+                    <alt-trans origin="memsource-tm" match-quality="75.0"><target>GGGG</target></alt-trans>
+                    <m:editing-stats>
+                        <m:editing-time>0</m:editing-time>
+                        <m:thinking-time>0</m:thinking-time>
+                    </m:editing-stats>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+</xliff>
